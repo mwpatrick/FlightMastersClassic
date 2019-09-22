@@ -25,7 +25,8 @@ local flight_masters_alliance = {
     { npc = 2835, name = "Flight:Cedrik Prose", coords = { 45.8, 46.2 }, map = 1417 },
     { npc = 6706, name = "Flight:Baritanas Skyriver", coords = { 64.6, 10.4 }, map = 1443 },
     { npc = 4319, name = "Flight:Thyssiana", coords = { 89.4, 45.8 }, map = 1444 },
-    { npc = 4319, name = "Flight:Daelyshia", coords = { 34.41, 48.0 }, map = 1440 }
+    { npc = 4319, name = "Flight:Daelyshia", coords = { 34.41, 48.0 }, map = 1440 },
+    { npc = 2409, name = "Flight:Felicia Maline", coords = { 77.45, 44.22 }, map = 1431 },
 }
 
 local flight_masters_horde = {
